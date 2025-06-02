@@ -63,7 +63,7 @@ function toggleSelect(item) {
 
 <style scoped>
 .item-list {
-  border: 1px solid #ccc; /* рамка вокруг всего блока */
+  border: 1px solid #ccc;
   padding: 10px;
   border-radius: 8px;
   background: #fafafa;
@@ -89,8 +89,8 @@ function toggleSelect(item) {
 }
 
 .item.selected {
-  background-color: #4caf50;
-  border-color: #4caf50;
+  background-color:rgb(234, 190, 240);
+  border-color:rgb(114, 76, 175);
   color: white;
 }
 </style>

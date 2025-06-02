@@ -18,7 +18,7 @@ const props = defineProps({
 
 <style scoped>
 .selected-items {
-  border: 1px solid #ccc; /* рамка вокруг всего блока */
+  border: 1px solid #ccc;
   padding: 10px;
   border-radius: 8px;
   background: #f0f0f0;
